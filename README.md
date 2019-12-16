@@ -1,2 +1,0 @@
-# QuizIt
-Created with CodeSandbox
